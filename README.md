@@ -1,5 +1,7 @@
 # SubSlap
 
+![Version](https://img.shields.io/badge/version-1.3.9-FFCC00)
+
 **Turn any video or audio into accurately split, translated, animated subtitles.**
 
 SubSlap runs on your Mac. It transcribes, splits lines where sentences actually
