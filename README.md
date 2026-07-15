@@ -1,6 +1,6 @@
 # SubSlap
 
-![Version](https://img.shields.io/badge/version-1.3.9-FFCC00)
+![Version](https://img.shields.io/badge/version-1.3.13-FFCC00)
 
 **Turn any video or audio into accurately split, translated, animated subtitles.**
 
@@ -37,8 +37,8 @@ layer.
 
 Get the latest build from the [Releases page](https://github.com/diclesozbir/subslap/releases/latest).
 
-- **Apple Silicon** — `SubSlap_x.y.z_aarch64.dmg`
-- **Intel** — `SubSlap_x.y.z_x64.dmg`
+- **Apple Silicon** — `SubSlap-arm64.dmg`
+- **Intel** — `SubSlap-x64.dmg`
 
 Open the DMG and drag SubSlap to your Applications folder. Every build is signed and
 notarized by Apple, so it opens without warnings.
