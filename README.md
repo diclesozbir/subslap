@@ -1,6 +1,6 @@
 # SubSlap
 
-![Version](https://img.shields.io/badge/version-1.3.16-FFCC00)
+![Version](https://img.shields.io/badge/version-1.3.20-FFCC00)
 
 **Turn any video or audio into accurately split, translated, animated subtitles.**
 
