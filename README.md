@@ -37,8 +37,8 @@ layer.
 
 Get the latest build from the [Releases page](https://github.com/diclesozbir/subslap/releases/latest).
 
-- **Apple Silicon** — `SubSlap-arm64.dmg`
-- **Intel** — `SubSlap-x64.dmg`
+- **Apple Silicon** — `SubSlap-AppleSilicon.dmg`
+- **Intel** — `SubSlap-Intel.dmg`
 
 Open the DMG and drag SubSlap to your Applications folder. Every build is signed and
 notarized by Apple, so it opens without warnings.
