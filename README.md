@@ -14,6 +14,9 @@ layer.
 
 - **Transcribe from video or audio.** Drop in a file and get a timed transcript. Run
   it locally on-device, or use your own API key for cloud speed.
+- **Fix the transcript automatically.** A cheap AI pass restores punctuation and
+  rebuilds rough speech-to-text into real sentences, keeping your exact words.
+  Cleaner captions, cleaner translations.
 - **Split where sentences break.** Lines end at natural clause and sentence
   boundaries instead of a fixed word count. Sentence Mode gives you one caption per
   sentence, with no mid-thought cuts.
