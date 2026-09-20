@@ -1,6 +1,6 @@
 # SubSlap
 
-![Version](https://img.shields.io/badge/version-1.3.39-FFCC00)
+![Version](https://img.shields.io/badge/version-1.3.40-FFCC00)
 
 **Turn any video or audio into accurately split, translated, animated subtitles.**
 
@@ -60,7 +60,7 @@ notarized by Apple, so it opens without warnings.
 
 ## Support
 
-Questions or bugs? Email [support@subslap.com](mailto:support@subslap.com).
+Questions or bugs? Email [hey@ssslap.com](mailto:hey@ssslap.com).
 
 ---
 
