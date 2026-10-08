@@ -26,6 +26,10 @@ layer.
   stays put.
 - **Animate.** Style captions with animated presets and preview them over your source
   video.
+- **Save the project, come back later.** Everything goes into one `.subslap` file:
+  transcript, split edits, translations, style. Autosave runs every minute, and
+  unsaved work comes back after a crash. Move the video and the project still
+  opens.
 - **Export your way.** Burn subtitles straight onto the video, or render them on a
   transparent alpha layer to drop into your editor. Progress updates live while it
   renders.
